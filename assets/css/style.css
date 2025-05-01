@@ -663,7 +663,7 @@ footer p {
 }
 
 /* Hack for mobile */
-@media (max-width: 768px) {
+@media (max-width: 1545px) {
   html, body {
     overflow: auto;
     -webkit-overflow-scrolling: touch;
