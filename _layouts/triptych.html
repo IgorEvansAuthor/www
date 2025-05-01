@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/assets/css/style.css" />
+    <link rel="icon" href="/favicon.png" type="image/png">
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;700&display=swap" rel="stylesheet">
+{% if page.page_css %}
+  <style>
+    {{ page.page_css }}
+  </style>
+{% endif %}
+  </head>
+  <body class="{{ page.body_class | default: page.layout }}">
+    <header>
+      <div class="top-bar">
+        <div class="logo"><a href="/index">Ígōr Évans</a></div>
+        <nav>
+          <a href="/miklos">Míklos</a>
+          <a href="/reviews">Reviews</a>		  
+          <a href="/about">About</a>
+        </nav>
+      </div>
+    </header>
+
+    {% if page.background_layer %}
+      <div class="{{ page.background_class }}"></div>
+    {% endif %}
+
+    {% if page.pull_quote %}
+      <div class="pull-quote">
+        {{ page.pull_quote | markdownify }}
+		{% if page.pull_quote_attribution %}
+        <p class="attribution">— {{ page.pull_quote_attribution }}</p>
+		{% endif %}
+      </div>
+    {% endif %}
+
+    {% if page.aux_html %}
+        {{ page.aux_html }}
+    {% endif %}
+
+    <main class="shared-layout">
+      <div class="shared-left">
+        {% if page.left_contents == "panel" %}
+          {% include content-panel.html title_md=page.title content_md=page.content_panel_md %}
+        {% endif %}
+        {{ page.left_md | markdownify }}		
+        {{ page.left_html }}
+      </div>
+      <div class="shared-middle">
+        {% if page.middle_contents == "panel" %}
+          {% include content-panel.html title_md=page.title content_md=page.content_panel_md %}
+        {% endif %}
+        {{ page.middle_md | markdownify }}		
+        {{ page.middle_html }}
+      </div>
+      <div class="shared-right">
+        {% if page.right_contents == "panel" %}
+          {% include content-panel.html title_md=page.title content_md=page.content_panel_md %}
+        {% endif %}
+        {{ page.right_md | markdownify }}		
+		{{ page.right_html }}
+      </div>
+    </main>
+
+    {% if page.show_footer == true %}
+      <footer>
+        <p>Contact me at the obvious email address</p>
+      </footer>
+    {% endif %}
+	
+	{% if page.page_script %}
+      <script>
+      {{ page.page_script }}
+      </script>
+    {% endif %}
+    {% if page.bottom_html %}
+      {{ page.bottom_html }}
+    {% endif %}
+  </body>
+</html>

@@ -1,0 +1,6 @@
+{% if include.title_md %}
+  <h1 class="page-title">{{ include.title_md | markdownify }}</h1>
+{% endif %}
+<div class="content-panel">
+  {{ include.content_md | markdownify }}
+</div>

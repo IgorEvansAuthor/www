@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/assets/css/style.css" />
+    <link rel="icon" href="/favicon.png" type="image/png">
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;700&display=swap" rel="stylesheet">
+  </head>
+
+  <body class="{{ page.body_class | default: page.layout }}">
+  {% if page.background_class %}
+    <div class="{{ page.background_class }}"></div>
+  {% endif %}
+  
+  
+    <header>
+      <div class="top-bar">
+        <div class="logo"><a href="/">Ígōr Évans</a></div>
+        <nav>
+          <a href="/miklos">Míklos</a>
+          <a href="/about">About</a>
+          <a href="/contact">Contact</a>
+        </nav>
+      </div>
+    </header>
+
+    {{ content }}
+
+    {% if page.show_footer %}
+    <footer>
+      <p>Contact: <a href="mailto:igor@igorevans.com">igor@igorevans.com</a></p>
+    </footer>
+    {% endif %}
+  </body>
+</html>
