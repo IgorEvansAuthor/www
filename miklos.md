@@ -31,9 +31,11 @@ content_panel_md: |
   
   He is not our hero. He’s not even a reliable narrator. Yet this sanctified sad sack with delusions of relevance and a file full of corpses may be the only one reckless enough to ask the questions no one else dares—and survive the answers.
   
-  This standalone tragicomedy blends mythic fantasy with noir detective fiction and wry humor—think *The Big Sleep* meets *The Iliad* and *The Clouds—*in under 300 pages. (Not including the glossary, helpfully provided for readers unversed in ancient dialects, practical daemonology, and mythologically variable genitalia.)
-  
-  It won’t earn you a Classics degree. It <i>will</i> make you laugh and cry at the end of the world—and that’s something, isn’t it?
+  This standalone tragicomedy blends mythic fantasy with noir detective fiction and wry humor—think *The Big Sleep* meets *The Iliad* and *The Clouds—*in under 300 pages.
 
-  Enter the grin-dark world of <i>Míklos.</i> Just don’t expect justice—or sanity.
+  (Want more? It also links to an extensive—though entirely optional—online glossary, helpfully provided for readers unversed in ancient dialects, practical daemonology, and mythologically variable genitalia.)
+
+  Sure, it won’t get you a Classics degree. Instead, it will sharpen your smile, break your heart, and teach you what gods fear most—as you laugh and cry at the end of the world.
+
+  **Enter the grin-dark world of Míklos and abandon all hope for justice—or sanity.**
 ---
