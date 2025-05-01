@@ -661,3 +661,16 @@ footer p {
   pointer-events: none;
   mix-blend-mode: screen;
 }
+
+/* Hack for mobile */
+@media (max-width: 768px) {
+  html, body {
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .site-wrapper {
+    transform: scale(0.5);
+    transform-origin: top left;
+  }
+}
