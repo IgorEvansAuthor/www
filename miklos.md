@@ -8,13 +8,13 @@ title: |
   A case not even an immortal should touch.
 body_class: miklos
 left_html: |
-  <a href="https://www.amazon.com/M%C3%ADklos-Hire-Greek-Tragicomedy-Five-ebook/dp/B0F1G17HL2"><img src="/assets/images/miklos-cover.jpg" alt="Míklos and posse" /></a>
+  <a href="https://a.co/d/0vUgM3G"><img src="/assets/images/miklos-cover.jpg" alt="Míklos and posse" /></a>
 right_contents: panel
 right_html: |
   <div class="miklos-buttons">
     <a href="/about-miklos" class="miklos-button wide">About Míklos</a>
     <a href="/reviews" class="miklos-button icon">💬</a>
-    <a href="https://www.amazon.com/M%C3%ADklos-Hire-Greek-Tragicomedy-Five-ebook/dp/B0F1G17HL2" class="miklos-button wide" target="_blank">Buy from Amazon</a>
+    <a href="https://a.co/d/0vUgM3G" class="miklos-button wide" target="_blank">Buy from Amazon</a>
   </div>
 content_panel_md: |
   *Míklos* is a private eye—and he’s got a private eye to prove it: the kind that sees too much and forgets nothing.
