@@ -25,7 +25,7 @@ content_panel_md: |
 
   ***
 
-  When a routine job to silence some embarrassing undead nearly gets *him* dead, *Míklos* stumbles upon a deception long woven by the gods themselves. His quest to unravel this mystery and avert its catastrophe takes him from the depths of the ocean floor to the peak of Mount *Ólympos.* Thus is he driven to uncover the secrets of Creation and forced to answer for his oldest sins.</p>
+  When a routine job to silence some embarrassing undead nearly gets *him* dead, *Míklos* stumbles upon a deception long woven by the gods themselves. His quest to unravel this mystery and avert its catastrophe takes him from the depths of the ocean floor to the peak of Mount *Ólympos.* Thus is he driven to uncover the secrets of Creation and forced to answer for his oldest sins.
 
   Long mired in divinely ordained stagnation, he and his world are dragged forward at last, with consequences no witness saw coming and no survivor will ever forget.
 
