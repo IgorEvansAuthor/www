@@ -31,7 +31,7 @@ content_panel_md: |
   
   And so it is that, when one of Them sins, They need it cleaned up quickly and quietly: without scandal. That is where I come in. My job is to make Their problem go away and keep the flock content.
   
-  Their orders, I obey to the *grámma*; Their mercy, I carry out with studied neutrality; and never do I—without need—take lives. I’m the best there is at what I do, and what I do best is very holy.
+  Their orders, I obey to the letter; Their mercy, I carry out with studied neutrality; and never do I—without need—take lives. I’m the best there is at what I do, and what I do best is very holy.
   
   I collect a fair wage and do not name Names. As for my own, you can call me *Míklos*.
 ---

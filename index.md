@@ -5,8 +5,8 @@ body_class: hero
 show_footer: true
 left_html: |
   <div class="hero-text">
-    <h1>Open the door into adventure!</h1>
-    <p>(Watch your head, though.)</p>
+    <h1>Open the door into mystery!</h1>
+    <p>(Beware: Answers have a price.)</p>
     <a class="hero-button" href="/miklos.html">Open Door</a>
   </div>
 right_html: |

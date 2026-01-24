@@ -7,6 +7,8 @@
       "“I wanted to like it, but it was all Greek to me! Hur, hur, hur.”|@cleverhans.bsky.social",
       "“There's a first-rate story buried in this. Too bad I couldn't find it in all the Greek.”|@prowriter69@mastodon.social",
       "“Πάρα πολλά αγγλικά και όχι αρκετά ελληνικά σ’ αυτό το βιβλίο! (There's too much English and not enough Greek in this book!)”|@stavros_pseudopolis",
+	  "“I endorse the protagoníst as a true son of Hellás, and a fierce synagoníst for the Ethnikís Palingenesía!”|Geórgios Papadópoulos",
+	  "“A masterpiece of transparent narration and moral rectitude, brimming with exquisite recipes. Four forks!”|H. Lecter, PhD",	  
       "“Worst 20 minutes of my life.”|@SpeedReadRichards@mastodon.art",
       "“The story really is superb. Excellent world building, three interesting characters and a plot that moves really nicely, but [...]”|@bad_news_sandwich",
       "“Polarizing, and not in a good way. This is what happens when someone writes purely for their own amusement.”|@OhPenMinded@mstdn.social",
