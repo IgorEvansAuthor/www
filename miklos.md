@@ -49,7 +49,7 @@ content_panel_md: |
 
   For those drawn to sophisticated storytelling, this tragicomedy offers rich rewards: a character study of immortal irrelevance with genuine emotional stakes, a fully realized mythic world, and dark humor in the shadow of looming apocalypse.
 
-  Think Gene Wolfe’s unreliable narrators meet Roger Zelazny’s world-weary immortals, sharpened by Raymond Chandler’s hard-boiled detectives and shadowed by Homer’s doomed epic heroes.
+  Think Gene Wolfe’s unreliable narrators meet Roger Zelazny’s world-weary immortals, sharpened by Raymond Chandler’s hard-boiled detectives and rooted in Homer’s doomed epic heroes.
 
   ***
 
