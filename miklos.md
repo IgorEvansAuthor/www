@@ -17,11 +17,11 @@ right_html: |
     <a href="https://amazon.com/" class="miklos-button wide" target="_blank">Buy from Amazon</a>
   </div>
 content_panel_md: |   
-  *Míklos* is a private eye with a private eye, a gift for self-mythology, and opinions so reactionary they’d make Spartans shift uncomfortably and excuse themselves.
+  *Míklos* is a private eye with a private eye, a talent for self-mythology, and opinions so reactionary they’d make Spartans shift uncomfortably and excuse themselves.
 
   A deposed demigod, he perpetuates his unfulfilling, unending existence by cleaning up divine scandals in a noir Iron-Age Greece. Here, in an ancient and unchanging realm, human life is cheap, the gods terrifyingly real, and magic more menacing than magical.
 
-  An unheroic protagonist and unreliable narrator, <i>Míklos</i> views the world through all three of his jaded eyes, filtering events through warped morals, thwarted ambitions, and a memory that refuses to let anything go. Moreover, despite having no sense of humor that he is aware of, he is disturbingly amusing.
+  An unheroic protagonist and unreliable narrator, *Míklos* views the world through all three of his jaded eyes, filtering events through warped morals, thwarted ambitions, and a memory that refuses to let anything go. Moreover, despite having no sense of humor that he is aware of, he is disturbingly amusing.
 
   ***
 
@@ -31,11 +31,11 @@ content_panel_md: |
 
   ***
 
-  Take note: this novel is deliberate in its construction. The prose is elevated, ornate, and shaped by the cadences of classical oratory; the worldbuilding deep, cohesive, and historically grounded; the humor dry, bitter, and biting. This very text serves as sample.
+  The novel is deliberate in its construction. The prose is elevated, ornate, and shaped by the cadences of classical oratory; the worldbuilding deep, cohesive, and historically grounded; the humor dry, bitter, and biting. This very text serves as a sample.
 
-  Voiced in the first person, it exudes the narrator’s affectations, egotism, and excessive love of Greek. Significantly, this foreign terminology is woven into the narrative and themes, though always transliterated and supported by a thorough—though thoroughly optional—glossary. Modern dialogue conventions are consciously eschewed.
+  Voiced in the first person, the language exudes the narrator’s affectations, egotism, and inordinate love of Greek. It is accordingly seasoned with a veritable *plēthṓra* of such terms: transliterated, glossed, and hyperlinked as a matter of course.
 
-  The tightly structured text invites and repays close attention, revealing its depth through layered themes, intricate plotting, and buried meanings. Its language is formal, its rhythms archaic, its mythology unapologetically dense. Italicized Greek words, complete with diacritics, are not uncommon. Yet despite its formal sensibilities, the pacing is brisk, the action plentiful, the comedy unmistakable.
+  The tightly structured text invites and repays close attention, revealing its substance over time by way of layered recurring themes, economically intricate plotting, and variably accessible meanings. Formal language, archaic rhythms, and elaborate mythology fuel brisk pacing, riveting action, and unmistakable comedy.
 
   ***
 
@@ -47,9 +47,9 @@ content_panel_md: |
 
   ***
 
-  For those drawn to sophisticated storytelling, this tragicomedy offers rich rewards: a fully realized mythic world, a character study of immortal irrelevance, genuine emotional stakes behind the intellectualism, and dark humor beneath a looming apocalypse.
+  For those drawn to sophisticated storytelling, this tragicomedy offers rich rewards: a character study of immortal irrelevance with genuine emotional stakes, a fully realized mythic world, and dark humor in the shadow of looming apocalypse.
 
-  Think Gene Wolfe’s unreliable narrators meet Roger Zelazny’s world-weary immortals, sharpened by Raymond Chandler’s hard-boiled detectives and shadowed by Homer's doomed epic heroes.
+  Think Gene Wolfe’s unreliable narrators meet Roger Zelazny’s world-weary immortals, sharpened by Raymond Chandler’s hard-boiled detectives and shadowed by Homer’s doomed epic heroes.
 
   ***
 
@@ -59,5 +59,5 @@ content_panel_md: |
 
   ***
 
-  **Come, step into the grin-dark world of <i>Míklos</i>. Just don’t expect him to be your hero.**  
+  **Come, step into the grin-dark world of *Míklos*. Just don’t expect him to be your hero.**
 ---
