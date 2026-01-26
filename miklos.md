@@ -8,13 +8,13 @@ title: |
   ambition, and a long memory.
 body_class: miklos
 left_html: |
-  <a href="https://amazon.com/"><img src="/assets/images/miklos-cover.jpg" alt="Míklos and posse" /></a>
+  <a href="https://www.amazon.com/dp/B0GJK7RP1Q/"><img src="/assets/images/miklos-cover.jpg" alt="Míklos annoyed" /></a>
 right_contents: panel
 right_html: |
   <div class="miklos-buttons">
     <a href="/about-miklos" class="miklos-button wide">About Míklos</a>
     <a href="/reviews" class="miklos-button icon">💬</a>
-    <a href="https://amazon.com/" class="miklos-button wide" target="_blank">Buy from Amazon</a>
+    <a href="https://www.amazon.com/dp/B0GJK7RP1Q/" class="miklos-button wide" target="_blank">Buy from Amazon</a>
   </div>
 content_panel_md: |   
   *Míklos* is a private eye with a private eye, a talent for self-mythology, and opinions so reactionary they’d make Spartans shift uncomfortably and excuse themselves.
