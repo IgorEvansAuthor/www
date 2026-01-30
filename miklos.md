@@ -25,7 +25,7 @@ content_panel_md: |
 
   ***
 
-  When a routine job to silence some embarrassing undead nearly gets *him* dead, *Míklos* stumbles upon a deception long woven by the gods themselves. His quest to unravel this mystery and avert its catastrophe takes him from the depths of the ocean floor to the peak of Mount *Ólympos.* Thus is he driven to uncover the secrets of Creation and forced to answer for his oldest sins.
+  When a routine job to silence some embarrassing undead nearly gets him dead, *Míklos* stumbles upon a deception long woven by the gods themselves. His quest to unravel this mystery and avert its catastrophe takes him from the depths of the ocean floor to the peak of Mount *Ólympos.* Thus is he driven to uncover the secrets of Creation and forced to answer for his oldest sins.
 
   Long mired in divinely ordained stagnation, he and his world are dragged forward at last, with consequences no witness saw coming and no survivor will ever forget.
 
@@ -35,13 +35,13 @@ content_panel_md: |
 
   Voiced in the first person, the language exudes the narrator’s affectations, egotism, and inordinate love of Greek. It is accordingly seasoned with a veritable *plēthṓra* of such terms: transliterated, glossed, and hyperlinked as a matter of course.
 
-  The tightly structured text invites and repays close attention, revealing its substance over time by way of layered recurring themes, economically intricate plotting, and variably accessible meanings. Formal language, archaic rhythms, and elaborate mythology fuel brisk pacing, riveting action, and unmistakable comedy.
+  The tightly structured text invites and repays close attention, revealing its substance over time by way of layered recurring themes, economically intricate plotting, and variably accessible meanings. Formal language, archaic rhythms, and elaborate mythology fuel brisk pacing, riveting action, and uncomfortable comedy.
 
   ***
 
   *Míklos’s* portrayal is unflinching and unflattering, though not entirely unsympathetic. He is a complex character whose profoundly alien moral views reflect his failings, not ideals to be emulated, nor flaws tidily redeemed.
 
-  He philosophizes about mortality while squatting over corpses, justifies brutal violence with unassailable logic, and narrates supernatural combat with the casual detachment of a man filing paperwork.
+  He philosophizes about mortality while squatting over corpses, justifies brutal violence with unassailable logic, and narrates combat with the casual detachment of a man filing paperwork.
 
   Though vain, pitiless, and deeply flawed besides, he remains perversely relatable: not because he is admirable, but because the spectacle of his slow-moving self-destruction is impossible to ignore.
 
@@ -49,7 +49,7 @@ content_panel_md: |
 
   For those drawn to sophisticated storytelling, this tragicomedy offers rich rewards: a character study of immortal irrelevance with genuine emotional stakes, a fully realized mythic world, and dark humor in the shadow of looming apocalypse.
 
-  Think Gene Wolfe’s unreliable narrators meet Roger Zelazny’s world-weary immortals, sharpened by Raymond Chandler’s hard-boiled detectives and rooted in Homer’s doomed epic heroes.
+  Think Gene Wolfe’s unreliable narrators meet Roger Zelazny’s world-weary immortals, only sharpened by Raymond Chandler’s hard-boiled detectives and rooted in Homer’s doomed epic heroes.
 
   ***
 
