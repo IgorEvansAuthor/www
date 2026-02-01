@@ -25,7 +25,7 @@ content_panel_md: |
 
   ***
 
-  When a routine job to silence some embarrassing undead nearly gets him dead, *Míklos* stumbles upon a deception long woven by the gods themselves. His quest to unravel this mystery and avert its catastrophe takes him from the depths of the ocean floor to the peak of Mount *Ólympos.* Thus is he driven to uncover the secrets of Creation and forced to answer for his oldest sins.
+  When a routine job to silence some embarrassing undead nearly gets *him* dead, *Míklos* stumbles upon a deception long woven by the gods themselves. His quest to unravel this mystery and avert its catastrophe takes him from the depths of the ocean floor to the peak of Mount *Ólympos.* Thus is he driven to uncover the secrets of Creation and forced to answer for his oldest sins.
 
   Long mired in divinely ordained stagnation, he and his world are dragged forward at last, with consequences no witness saw coming and no survivor will ever forget.
 
@@ -56,8 +56,6 @@ content_panel_md: |
   This is a polished work with a voice of its own. It is not a joyful romp, not a modernized ironic retelling, and not volume one of an interminable series. Instead, it offers a singular experience forged from seemingly incompatible elements.
 
   If you appreciate literary fantasy that trusts the reader and offers more than escapism, this book was written with you in mind.
-
-  ***
 
   **Come, step into the grin-dark world of *Míklos*. Just don’t expect him to be your hero.**
 ---
