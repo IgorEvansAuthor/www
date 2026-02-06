@@ -25,9 +25,9 @@ content_panel_md: |
   
   It’s not just ego, though that’s plentiful. They need us to believe, to follow, to sacrifice—especially that. Without worshipers to feed Them, gods can starve; our doubt is Their famine.
   
-  While *mánna’s* called by men *«ambrosía»,* meaning “immortality”, and epithetized as *«tḕn dýnamin tôn theōn»,* “the power of the gods”, it is from the devotion of mortals that the gods’ power comes ultimately.
+  While *mánna’s* called by men *«ambrosía»,* meaning “immortality”, and epithetized as *«tḕn dýnamin tôn theōn»,* “the power of the gods”, it is from the devotion of mortals that Their power comes ultimately.
   
-  They depend for sustenance upon the voluntary donation of Their worshipers’ *mánna*, which rises to the Heavens above as surely as Their benevolence rains down below.
+  The gods depend for sustenance upon the voluntary donation of Their worshipers’ *mánna*, which rises to the Heavens above as surely as Their benevolence rains down below.
   
   And so it is that, when one of Them sins, They need it cleaned up quickly and quietly: without scandal. That is where I come in. My job is to make Their problem go away and keep the flock content.
   
